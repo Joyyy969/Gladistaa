@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f9f9fb;
+    font-family: Arial, sans-serif;
+    background: -20rem -25rem;
+}  
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+   background-color: rgb(0, 0, 0);
+    padding: 2 b0px;
+    color: rgb(122, 182, 234);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(247, 119, 187, 0.1);
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.yes {
+    background-color: rgb(15, 224, 228);
+    color: white;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: center;
+}
+
+.no {
+    background-color: rgb(15, 224, 228);
+    color: white;
+}
+.song {
+    background-color: rgb(15, 224, 228);
+    color: white;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: center;
+}
